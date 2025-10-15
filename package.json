@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://github.com/mastimed/mobilegestion/",
+  "homepage": "https://mastimed.github.io/mobilegestion/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
