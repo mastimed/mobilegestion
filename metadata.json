@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gestionnaire d'Inventaire Mobile",
+  "description": "Une application web pour gérer l'inventaire des téléphones mobiles et des pièces de réparation. Suivez les niveaux de stock, ajoutez de nouveaux produits et recevez des alertes pour les articles à faible stock.",
+  "requestFramePermissions": []
+}
